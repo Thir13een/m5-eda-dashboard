@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://m5-eda-dashboard.vercel.app">🔗 Live Demo</a>
+  <a href="https://m5-eda-dashboard.vercel.app" target="_blank">🔗 Live Demo</a>
 </p>
 
 <p align="center">
@@ -108,6 +108,7 @@ Open [http://localhost:3000](http://localhost:3000)
 ## 📁 Project Structure
 
 ```
+├── EDA.ipynb            # Jupyter notebook — all data processing
 ├── public/              # Pre-computed JSON data files
 │   ├── kpis.json
 │   ├── time-series.json
