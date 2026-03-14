@@ -18,6 +18,11 @@
   <a href="https://m5-eda-dashboard.vercel.app">🔗 Live Demo</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Thir13een"><img src="https://img.shields.io/badge/Krishna-Thir13een-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/shwetabankar54"><img src="https://img.shields.io/badge/Shweta-shwetabankar54-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
 ---
 
 ## 🧠 Why This Exists
