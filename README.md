@@ -164,3 +164,11 @@ Open [http://localhost:3000](http://localhost:3000)
   <a href="https://github.com/Thir13een"><img src="https://img.shields.io/badge/Krishna-Thir13een-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://github.com/shwetabankar54"><img src="https://img.shields.io/badge/Shweta-shwetabankar54-181717?style=for-the-badge&logo=github" /></a>
 </p>
+
+## 👥 Team
+
+| Member | GitHub |
+|---|---|
+| Krish | [@Thir13een](https://github.com/Thir13een) |
+| Shweta | [@shwetabankar54](https://github.com/shwetabankar54) |
+
