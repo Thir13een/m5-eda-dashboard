@@ -1,5 +1,3 @@
-[![Krish](https://img.shields.io/badge/Krish-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thir13een) [![Shweta](https://img.shields.io/badge/Shweta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shwetabankar54)
-
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
@@ -15,6 +13,9 @@
   <b>Interactive analytics dashboard for the Walmart M5 Forecasting dataset</b><br/>
   <i>58 million rows. Too big for Tableau. So we built our own.</i>
 </p>
+
+
+**🤝 Built by**   [![Krish](https://img.shields.io/badge/Krish-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thir13een) [![Shweta](https://img.shields.io/badge/Shweta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shwetabankar54)
 
 <p align="center">
   <a href="https://m5-eda-dashboard.vercel.app" target="_blank">🔗 Live Demo</a>
