@@ -1,3 +1,5 @@
+[![Krish](https://img.shields.io/badge/Krish-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thir13een) [![Shweta](https://img.shields.io/badge/Shweta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shwetabankar54)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
@@ -175,19 +177,3 @@ Open [http://localhost:3000](http://localhost:3000)
 
 
 <br/>
-
-<div align="center">
-
-<h3>🤝 Built By</h3>
-
-<a href="https://github.com/Thir13een">
-  <img src="https://github.com/Thir13een.png" width="70" style="border-radius:50%"/>
-  <br/><sub><b>Krish</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/shwetabankar54">
-  <img src="https://github.com/shwetabankar54.png" width="70" style="border-radius:50%"/>
-  <br/><sub><b>Shweta</b></sub>
-</a>
-
-</div>
